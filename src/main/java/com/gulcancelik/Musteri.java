@@ -1,4 +1,4 @@
-package com.mimaraslan;
+package com.gulcancelik;
 
 public class Musteri {
    private String adi = "İsim Belirtilmemiştir.";
